@@ -1,0 +1,16 @@
+2023/08/26 got a parking ticket in NYC
+
+ticket number is 905836435-5
+
+2023/09/02 tried to dispute the ticket
+installed android NYC Pay or Dispute app
+scanned the ticket 9058364355
+clicked dispute, it says ticket info not found.
+
+tried to go online dispute
+https://www.nyc.gov/site/finance/vehicles/dispute-a-ticket.page
+entered email address
+received a email with a link
+followed link 
+entered ticket 905836435-5
+again, it says ticket not found.
