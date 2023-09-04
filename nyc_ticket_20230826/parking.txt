@@ -14,3 +14,38 @@ received a email with a link
 followed link 
 entered ticket 905836435-5
 again, it says ticket not found.
+
+Dear officer,
+
+On 2023/08/26, Saturday, I drove my family to the City. I found a spot saying "2 hour metered parking". 
+I used mobile app, ParkNYC, to pay the parking fee. But my payment was rejected. As I came to the City
+last year and it was free to park cars on Saturday. I guessed that it was still free this year. Being a
+careful person, I saved a screenshot of the payment rejection. (cannot_pay_parking.jpg). 
+The screenshot had a timestamp, 11:29 AM and the zone code. This timestamp will be important for my defense.
+
+I took a picture of the signage from driver's seat. (unclear_signage.jpg).
+(The picture was meant to remember the street number and help me come back.)
+The picture had the same zone code.
+Also the picture's timestamp was 11:30 AM. This timestamp again will be important for my defense. 
+(Technology note: the picture's timestamp is in the file's info or properties. 
+To see the timestamp, you can right click on the picture in Windows, and select Properties.)
+
+I went out of the car and checked how other cars parked and asked people around about parking.
+Right at this moment, a police officer came to check my car. I asked him whether it was OK to park here. 
+He said it was for "Commercial Vehichles only". Then I noticed the "Commercial Vehichles only" sign, which was
+blurred (shadowed) by the scalffolding.
+I told him that I would move my car but he said that he already wrote the ticket.
+He said that he couldn't undo the ticket but I could dispute it.
+
+That was the whole situation.
+
+I admit that I missed the "Commercial Vehicles Only" sign. But I dispute the ticket on that
+1. The "Commercial Vehicles Only" sign was blurred (shadowed) by the scalffolding. (evidence: picture.)
+2. The officer was too rush when he wrote the ticket. (evidence: ticket's timestamp)
+3. I sincerely tried to pay the parking in the first place. (evidence: screenshot)
+
+Thank you for looking into these evidences.
+
+Tian
+
+ 
