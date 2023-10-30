@@ -1,0 +1,2 @@
+LCA doesn't need to pay tax if revenue is below 50,000, 
+but LCA is required to report tax every year.
