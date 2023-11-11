@@ -60,7 +60,9 @@ zelle
    linked to chase account
    lcapaypal2020@gmail.com - this is not a paypal account, likely a zelle account todo
    removed on 2023/11/01
-   created lcazelle2023@gmail.com as zelle account
+   created lca.zelle,chase@gmail.com, linked to chase account
+   created lca.zelle,td@gmail.com,    linked to td    account
+   zelle max transfer is $15,000
 
 google docs
    https://docs.google.com/spreadsheets/d/1A92PjUS1Rokh5-Lc3X9S_gCFp8pDKW2teQMr_gpHZrI/edit?usp=sharing
