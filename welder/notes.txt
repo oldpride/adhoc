@@ -1,0 +1,39 @@
+2024 jan, i bought
+ANDELI 110V/220V 200AMP Aluminum Tig Welder, AC/DC Tig Welder With Pulse Cold Welding Machine
+   TIG-250PLS AC DC (Al SUIT)
+   ASIN: B092CTBJ5H
+
+the pdf is for TIG-250PL
+
+the seller said:
+   Hello, TIG-250PL and TIG-250PLS only use different voltages, 
+   and their functions and welding parameters are the same. 
+   You can refer to this manual. 
+   In addition, we have many practical welding demonstrations of TIG-250PL
+   on YouTube for your reference.
+
+   Cold welded stainless steel plate
+   1mm: https://youtu.be/zllKS-Oyyws
+   2mm: https://youtu.be/k1rocMMjzyo
+   3mm: https://youtu.be/HeoQkrfORAc
+
+   Welding aluminum plate
+   1mm: https://youtu.be/mOF3UASCowQ
+   2mm: https://youtu.be/pGV6RbItWSo
+
+If you have any questions, you can contact us
+
+---------------------------------------------------------------------
+to find out what size of Argon gas tank to buy
+
+normal gas flow: 4~5 liter/minute. assume 5.
+tank capacity is measured in cubic feet.
+1 cubic feet = 28.3 liters
+tank of 40 cubic feet (size #2) would last 40*28.3/5 = 226 minutes
+should be enough
+also, tanks under 80 cu-f are easier to handle and doesn't require a cap. 
+
+---------------------------------------------------------------------
+TIG Welding requires pure Argon gas, which produces a clean weld with no oxidisation.
+
+MIG Welding requires an Argon-CO2 mixture for higher penetration and heat.
