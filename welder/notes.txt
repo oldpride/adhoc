@@ -34,6 +34,13 @@ should be enough
 also, tanks under 80 cu-f are easier to handle and doesn't require a cap. 
 
 ---------------------------------------------------------------------
-TIG Welding requires pure Argon gas, which produces a clean weld with no oxidisation.
+tractor supply's argon gas 
+   tank of 40 cubic feet (size #2) 
+      tank + full cost $389
+      exchange: $58 + $20 (for non tractor supply tank)
+   only Flanders tractor supply has argon gas.
 
-MIG Welding requires an Argon-CO2 mixture for higher penetration and heat.
+---------------------------------------------------------------------
+pure argon vs argon-co2 mix
+   TIG Welding requires pure Argon gas, which produces a clean weld with no oxidisation.
+   MIG Welding requires an Argon-CO2 mixture for higher penetration and heat.
